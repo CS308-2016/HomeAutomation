@@ -1,0 +1,14 @@
+You need a bluetooth interface for UART communications for bluetooth. There are several android apps that you can use for e.g. : 
+https://play.google.com/store/apps/details?id=apps.BT
+
+Connect your mobile to the Bluetooth module (the passphrase is generally 8888). YOu can set the keys for sending appropriate commands. The key that has been used are:
+
+FAN ON: 5
+FAN OFF: 6
+FAN UP: 7
+FAN DOWN: 8
+FAN AUTO: 9
+LED OFF: 0
+RED ON: 1
+GREEN ON: 2
+BLUE ON: 3
